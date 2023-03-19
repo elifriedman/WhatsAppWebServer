@@ -1,0 +1,5 @@
+aiohttp==3.8.1
+flask==2.2.3
+pysocks==1.7.1
+selenium==4.8.2
+webdriver-manager==3.8.5
