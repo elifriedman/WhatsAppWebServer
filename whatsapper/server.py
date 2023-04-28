@@ -1,6 +1,6 @@
 import uuid
 from flask import Flask, request
-from whatsapper import Whatsapper
+from whatsapper.whatsapper import Whatsapper
 
 app = Flask(__name__)
 
